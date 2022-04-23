@@ -6,7 +6,7 @@ Module Name: Support Link
 Description: Support Link
 Version: 0.0.1
 Requires at least: 2.3.*
-Author: macomi.online (Dmytro Kravchenko)
+Author: macomi.online
 Author URL: https://macomi.online
  */
 

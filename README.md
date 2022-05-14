@@ -2,4 +2,4 @@
 Support link for Perfex CRM add link on client area
 </br></br>
 Settings turn on</br>
-![image](https://user-images.githubusercontent.com/11683786/153731121-788a8b07-9156-44f9-b0ae-ebc8b35f22b6.png)
+![изображение](https://user-images.githubusercontent.com/11683786/168421881-c404b521-f084-460c-9b11-deda8093660e.png)
